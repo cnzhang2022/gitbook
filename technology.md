@@ -2,7 +2,7 @@
 
 ## **Infrastructure**
 
-World of Defish currently runs entirely on the blockchain, as opposed to centralized games running on their own servers. Having all gameplay done on-chain provides a level of trust not commonly found in traditional games, and allows all users to verify the code that runs the game, as well as all interactions happening on the game's smart contracts.
+TankWar will runs entirely on the blockchain, as opposed to centralized games running on their own servers. Having all gameplay done on-chain provides a level of trust not commonly found in traditional games, and allows all users to verify the code that runs the game, as well as all interactions happening on the game's smart contracts.
 
 All the requests to the blockchain (except transactions) will go through our API endpoint, to make the gaming experience really responsive. The API will aggregate and format blockchain data.
 
