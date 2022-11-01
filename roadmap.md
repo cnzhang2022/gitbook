@@ -1,29 +1,57 @@
 # Roadmap
 
-Q2 2022 Project planning
+## Q2 2022
 
-Project preparation
+**Launch Progressive Marketing Campaign**
 
-Game development
+This is an ongoing marketing campaign that involves community constests, NFT or cash giveaways, and paid collaborations with other projects/creators to accelerate our growth.
 
-Q3 2022
+**Official Video Trailer Release**
 
-Release game beta
+This phase involves the official release of our 4K video trailer for Mystic Motors racing. It will be used for further promotion on various platforms such as IG, YouTube and TikTok.
 
-On shelf 3D model NFT
+**Develop & Support Our Active Community**
 
-Release token three
+Initial community development through our social media channels and influencers. Integration of 24/7 support team and Discord moderation.
 
-Release the official version of the game
+## **Q3 2022**
 
-Q4 2022
+**Game Concept Content Revealed**
 
-Develop metauniverse
+Initial release of in-game user interfaces. We will also realese details involving the gamenomics.
 
-Release metauniverse NFT
+**Strategic 3D Asset Development**
 
-Q1 2023
+Exclusive release to our community of 3D in-game assets including tanks, battlefield, props and more.
 
-DAPP application market development
+**Genesis NFT Collection**
 
-Dao organization tool development
+Community sneak peek of our tanks Genesis NFT collection.
+
+## **Q4 2022**
+
+**Ongoing Progressive Marketing Campaig**
+
+Increased marketing campaigns with budget spent on project collaborations, aswell as paid advertising on Twitter, Discord,YouTube and more.
+
+**Beta version for Game TankWar**
+
+Complete the development of a beta version of the game TankWar
+
+**Influencer & Project Collaborations**
+
+We will work with well-known influencers and projects to increase engagement and expand reach.
+
+**Genesis NFT launch**
+
+Official sale of 4000 genesis NFT tanks, players will be able to see.
+
+## **Q1 2023**
+
+**Dao organization development**
+
+Players can join our DAO organization and participate in project governance
+
+**Start Play to earn**
+
+Game docking blockchain main net, Start Play to earn

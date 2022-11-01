@@ -2,21 +2,11 @@
 
 ## [Minting](http://tankwar-mint.three-three.co/)
 
-## **Play to earn**
+NFT Tank which is the only identity credential for log in tankwar. Players hold NFT Tank can paly to earn from TankWar.
 
-Race your NFT Tank and earn realtime cryptocurrency rewards with our Tank token. You can use these rewards to earn money from playing the game or upgrade your NFT Tank to improve its performance.
+NFT Tank just supply 3888 pictures,NFT Tank will become more and more valuable with the increasing number of players in tankwar.
 
-## **NFT Upgrades**
-
-Winning a match earns token Tank – This is our rewards in crypto , this allows you to unlock blueprints, build tank, perform upgrads and gain experience/XP levels.
-
-## **Metaverse Linked**
-
-Manage your profile as a player, collector, shopkeeper, or any of the other roles available. Customise your profile and upload it to the metaverse or bring in a profile NFT from your favourite collection!
-
-## **DAOS, Tracks, Leagues**
-
-NFT ownership allows holders to create and join DAOs – create your own clan, design tracks, organise events, tournamtes and more!
+NFT Tank will list on opensea,element,bitkeep and so on these markets
 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
