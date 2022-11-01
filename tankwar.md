@@ -8,4 +8,4 @@ At this moment the beta version of the TankWar has been developed,player can log
 
 {% embed url="https://youtu.be/PU2e_I8RU6I" %}
 
-## Play
+## [Play](https://tankwar-mint.three-three.co/tankwar.apk)
