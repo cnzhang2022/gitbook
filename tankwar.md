@@ -1,7 +1,5 @@
 # TankWar
 
-## [Download APK](http://tankwar-mint.three-three.co/tankwar.apk)
-
 Tankwar is the first play to earn project of Three-Three.that is a 3D tank battle game adapted from the classic tank battle. In the game, all play can get token tank by the ranking.
 
 At this moment the beta version of the TankWar has been developed,player can log in the game without NFT to play.
